@@ -21,10 +21,10 @@
 
 ##  Ссылки
 
-1) Базы данных:
-  - База резюме, выгруженная с сайта поиска вакансий hh.ru - https://drive.google.com/file/d/1qG3k17hADJuXFqYYJnk43T5rRKVwFpen/view?usp=sharing
-  - Курсы валют (для исследования данных с hh.ru и дальнейшего преобразования) - https://drive.google.com/file/d/18ncZuW0K4-VvVs5uN79tpYDp854DBIFu/view?usp=sharing
+###  1) Базы данных:
+    - База резюме, выгруженная с сайта поиска вакансий hh.ru - https://drive.google.com/file/d/1qG3k17hADJuXFqYYJnk43T5rRKVwFpen/view?usp=sharing
+    - Курсы валют (для исследования данных с hh.ru и дальнейшего преобразования) - https://drive.google.com/file/d/18ncZuW0K4-VvVs5uN79tpYDp854DBIFu/view?usp=sharing
 
-2) Графики к решению:
-  - пункт 3 решения - https://drive.google.com/drive/folders/1rsOUYj2Lz5BGnrYWWNBK0NbglhspPxTp?usp=sharing
-  - пункт 4 решения - https://drive.google.com/drive/folders/1NWZ6gGuKC1fMBDftJwOERa5qKl0vm7vP?usp=sharing
+### 2) Графики к решению:
+    - пункт 3 решения - https://drive.google.com/drive/folders/1rsOUYj2Lz5BGnrYWWNBK0NbglhspPxTp?usp=sharing
+    - пункт 4 решения - https://drive.google.com/drive/folders/1NWZ6gGuKC1fMBDftJwOERa5qKl0vm7vP?usp=sharing
