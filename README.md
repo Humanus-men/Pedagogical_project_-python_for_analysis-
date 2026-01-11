@@ -15,9 +15,9 @@
 
   2) преобразование данных
 
-  3) разведывательный анализ
+  3) разведывательный анализ (графики к решению - https://drive.google.com/drive/folders/1rsOUYj2Lz5BGnrYWWNBK0NbglhspPxTp?usp=sharing)
 
-  4) очистка данных
+  4) очистка данных (графики к решению - https://drive.google.com/drive/folders/1NWZ6gGuKC1fMBDftJwOERa5qKl0vm7vP?usp=sharing)
 
 Ссылки на данные:
   1) База резюме, выгруженная с сайта поиска вакансий hh.ru - https://drive.google.com/file/d/1qG3k17hADJuXFqYYJnk43T5rRKVwFpen/view?usp=sharing
